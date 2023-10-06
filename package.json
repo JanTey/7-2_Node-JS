@@ -1,0 +1,24 @@
+{
+  "name": "7-2_node-js",
+  "version": "1.0.0",
+  "description": "first step in learning npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanTey/7-2_Node-JS.git"
+  },
+  "keywords": [
+    "netology;",
+    "node;",
+    "js"
+  ],
+  "author": "Jante <teyvans@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JanTey/7-2_Node-JS/issues"
+  },
+  "homepage": "https://github.com/JanTey/7-2_Node-JS#readme"
+}
