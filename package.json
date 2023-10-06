@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/JanTey/7-2_Node-JS/issues"
   },
-  "homepage": "https://github.com/JanTey/7-2_Node-JS#readme"
+  "homepage": "https://github.com/JanTey/7-2_Node-JS#readme",
+  "devDependencies": {
+    "eslint": "^8.51.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.1",
+    "prettier": "^3.0.3"
+  }
 }
+
